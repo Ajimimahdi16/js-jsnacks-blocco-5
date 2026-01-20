@@ -11,3 +11,5 @@ const posts = [
 const authors = posts.map ((singleAuthor) =>{
  return singleAuthor.author;
 });
+console.log (posts)
+console.log (authors)

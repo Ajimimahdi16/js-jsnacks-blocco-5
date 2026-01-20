@@ -5,3 +5,5 @@ const numbers = [2, 8, 4, 7, 2, 87];
 const moltiplicazione = numbers.map ((numbers) =>{
  return numbers + 1 ;
 });
+
+// correzzione in classe esecizio eeguito giusto 

@@ -10,3 +10,6 @@ const people = [
 const names = people.map(elemento => elemento.name);
 console.log(names);
 
+/*correzione in classe
+people.forEach ( person => {
+  console.log (person.people)})*/

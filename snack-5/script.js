@@ -11,3 +11,7 @@ const numsPari = nums.filter((singoloNumero)=>{
     } 
       
 })
+
+/*const numsPari = nums.filter((singoloNumero)=>{
+return singoloNumero % 2 === 0 
+}*/
